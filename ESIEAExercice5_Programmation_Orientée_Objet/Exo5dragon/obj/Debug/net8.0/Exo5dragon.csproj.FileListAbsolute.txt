@@ -1,0 +1,14 @@
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\bin\Debug\net8.0\Exo5dragon.exe
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\bin\Debug\net8.0\Exo5dragon.deps.json
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\bin\Debug\net8.0\Exo5dragon.runtimeconfig.json
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\bin\Debug\net8.0\Exo5dragon.dll
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\bin\Debug\net8.0\Exo5dragon.pdb
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.AssemblyInfoInputs.cache
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.AssemblyInfo.cs
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.csproj.CoreCompileInputs.cache
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.dll
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\refint\Exo5dragon.dll
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.pdb
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\Exo5dragon.genruntimeconfig.cache
+C:\Users\elodie\Desktop\esieaexo5\Exo5dragon\Exo5dragon\obj\Debug\net8.0\ref\Exo5dragon.dll

@@ -1,0 +1,19 @@
+
+.question-container {
+    
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.answer {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+.correct-answer {
+    background-color: green;
+}
+.incorrect-answer {
+    background-color: red;
+}

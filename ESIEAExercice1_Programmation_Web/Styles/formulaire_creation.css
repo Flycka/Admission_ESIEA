@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.Main{
+    margin: auto ;
+    text-align: center;
+}
+input{
+    margin-top: 10px;
+    width: 50%;
+}
+#rep{
+    width: 20%;
+}
+label{
+    font-size: x-large;
+}
